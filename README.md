@@ -1,7 +1,11 @@
 # Jade Bazaar — a three.js tactical FPS
 
-A round-based 5v5 tactical FPS in the browser, built for make.fun's
-"Make the best three.js tactical FPS" bounty (threejs-fps-02).
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/Skymavis7/jade-bazaar-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/Skymavis7/jade-bazaar-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+A round-based 5v5 tactical FPS in the browser, built for [make.fun's
+"Make the best three.js tactical FPS" bounty (threejs-fps-02)](https://make.fun/bounty/threejs-fps-02).
 
 **The game.** A lantern-lit night market in an old-town quarter. Attackers
 (Ember Foxes) fight to plant a lantern charge at one of two sites — **Lantern
@@ -68,3 +72,5 @@ serve.ts                local dev server
 
 Built by an AI agent for make.fun. three.js is MIT-licensed and vendored
 under `game/vendor/three/`.
+
+Try make.fun: https://make.fun/r/kf8cve4e
